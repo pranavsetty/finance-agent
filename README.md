@@ -1,7 +1,3 @@
-# README for Financial Analysis Agents
-
-This README outlines the purpose, setup, and usage of the financial analysis and web research agents defined in the codebase. These agents leverage the `phi` framework for intelligent task execution, including financial data analysis and web-based research.
-
 ## Overview
 
 ### Agents Defined
